@@ -4,3 +4,13 @@ version control system (VCS)
 source code manager (SCM)
 
 
+
+
+
+working dir    
+
+staging index  $git add
+
+repository     $git commit 
+
+
