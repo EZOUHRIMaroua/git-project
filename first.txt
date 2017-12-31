@@ -6,11 +6,10 @@ source code manager (SCM)
 
 
 
-
 working dir    
 
 staging index  $git add
 
 repository     $git commit 
 
-
+git diff
